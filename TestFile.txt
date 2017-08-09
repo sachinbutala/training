@@ -1,6 +1,6 @@
 Hello World, First file on GIT
-Change - 1 :
-change - 2 :
-change - 3 :
-Change - 4 :
-change - 5 :
+Change - 1 : 1
+change - 2 : 2
+change - 3 : 3
+Change - 4 : 4
+change - 5 : 5
