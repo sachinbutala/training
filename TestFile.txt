@@ -1,8 +1,8 @@
 Hello World, First file on GIT
 
 Change - 1 : 1 : - Bug Branch
-change - 2 : 2 : -
-change - 3 : 3 : - 
+change - 2 : 2 : - 
+change - 3 : 3 : - Changes on  Master for Rebase
 Change - 4 : 4 : - 
 change - 5 : 5 : -
 change - 6 : 6 : -
